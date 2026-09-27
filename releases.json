@@ -1,0 +1,11 @@
+{
+ "signed": {
+  "format": 1,
+  "serial": 1,
+  "issued": "2026-09-27T22:36:00+00:00",
+  "releases": [],
+  "kind": "releases"
+ },
+ "key": "k1",
+ "sig": "keMQO27HY776Nbx+2fkpWAT0U9e5JkMqI34WQK6RXfMQSm6o+n0Gp3FOwFpB7Rd9jT6361TjkdQJT0of6BHVCg=="
+}
