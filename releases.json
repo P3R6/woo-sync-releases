@@ -1,8 +1,8 @@
 {
  "signed": {
   "format": 1,
-  "serial": 3,
-  "issued": "2026-09-28T20:09:18+00:00",
+  "serial": 4,
+  "issued": "2026-09-28T21:47:32+00:00",
   "releases": [
    {
     "version": "1.71",
@@ -48,10 +48,32 @@
       "https://github.com/P3R6/woo-sync-releases/releases/download/v1.72/woo-sync-setup-1.72.exe"
      ]
     }
+   },
+   {
+    "version": "1.74",
+    "date": "2026-09-29",
+    "notes": [
+     "نوار بالای پنجره هم‌رنگ برنامه",
+     "قیمت دستی کنار «قیمت سایت»",
+     "قیمتی که روی سایت دستی گذاشته شده، دیگر رویش نوشته نمی‌شود",
+     "صفحه‌ها خلوت‌تر",
+     "پیام‌ها بالا سمت چپ، کنار زنگوله",
+     "عدد صف بازبینی فقط وقتی چیز موجودی منتظر است"
+    ],
+    "data": 1,
+    "withdrawn": false,
+    "setup": {
+     "name": "woo-sync-setup-1.74.exe",
+     "size": 29195137,
+     "sha256": "7915cebf3bc797e21cc21bc1ab3946045e40da964828a375513c3b5ba6f28f94",
+     "urls": [
+      "https://github.com/P3R6/woo-sync-releases/releases/download/v1.74/woo-sync-setup-1.74.exe"
+     ]
+    }
    }
   ],
   "kind": "releases"
  },
  "key": "k1",
- "sig": "314VjT7VKqlpi47Yr2dTR9mKk5srYh7l5Hso4YfWLuwUT+yOW9yxPnqEQ2t08ApYsAIXTy8sAFs2dO/yXXAFBQ=="
+ "sig": "4OrQhc19jMqQqkN3+MZLQMx/HqHGVQvjrb7NIp8I6MzvPf0CWEweeO0Ln4RyRtm6vCFWGWqb+UtGBbaqi+T8Dw=="
 }
