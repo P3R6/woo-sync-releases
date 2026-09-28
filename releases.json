@@ -1,11 +1,37 @@
 {
  "signed": {
   "format": 1,
-  "serial": 1,
-  "issued": "2026-09-27T22:36:00+00:00",
-  "releases": [],
+  "serial": 2,
+  "issued": "2026-09-28T07:16:00+00:00",
+  "releases": [
+   {
+    "version": "1.71",
+    "date": "2026-09-28",
+    "notes": [
+     "پنجرهٔ خود برنامه",
+     "نصب مثل بقیهٔ برنامه‌ها",
+     "به‌روزرسانی از داخل برنامه، و برگشت به نسخهٔ قبل",
+     "اشتراک",
+     "هر صفحهٔ اکسل، تب خودش و قیمت‌گذاری خودش",
+     "عوض کردن اسم فایل و صفحه‌ها دیگر لینک‌ها را نمی‌پراند",
+     "خطای «احراز هویت» هنگام نوشتن روی سایت، روشن و قابل فهم",
+     "قیمتی که وسط کار روی سایت عوض شده، دیگر آپدیت را گیر نمی‌اندازد",
+     "لیستی که هم‌زمان با لیست دیگری باز شود دیگر گم نمی‌شود"
+    ],
+    "data": 1,
+    "withdrawn": false,
+    "setup": {
+     "name": "woo-sync-setup-1.71.exe",
+     "size": 29192589,
+     "sha256": "e1eda79da392ddfd2eb455d68c4426394a41a7fabb277d77c16ab7eade67f533",
+     "urls": [
+      "https://github.com/P3R6/woo-sync-releases/releases/download/v1.71/woo-sync-setup-1.71.exe"
+     ]
+    }
+   }
+  ],
   "kind": "releases"
  },
  "key": "k1",
- "sig": "keMQO27HY776Nbx+2fkpWAT0U9e5JkMqI34WQK6RXfMQSm6o+n0Gp3FOwFpB7Rd9jT6361TjkdQJT0of6BHVCg=="
+ "sig": "ODhqAlLqTxeDgYQB89Mp4l3sUwBkX8j9dxWbBWIZPV/eijDi7SajYKJ6a0xW2dW5bpC83LJpf5jrBEVxPZdkDg=="
 }
