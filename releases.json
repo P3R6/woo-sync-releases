@@ -1,8 +1,8 @@
 {
  "signed": {
   "format": 1,
-  "serial": 4,
-  "issued": "2026-09-28T21:47:32+00:00",
+  "serial": 5,
+  "issued": "2026-09-29T00:05:14+00:00",
   "releases": [
    {
     "version": "1.71",
@@ -70,10 +70,29 @@
       "https://github.com/P3R6/woo-sync-releases/releases/download/v1.74/woo-sync-setup-1.74.exe"
      ]
     }
+   },
+   {
+    "version": "1.76",
+    "date": "2026-09-29",
+    "notes": [
+     "سایت خودش خوانده می‌شود",
+     "جداکنندهٔ عددها «،» شد",
+     "سرتیتر تکراری اکسل دیگر محصول حساب نمی‌شود"
+    ],
+    "data": 1,
+    "withdrawn": false,
+    "setup": {
+     "name": "woo-sync-setup-1.76.exe",
+     "size": 29228813,
+     "sha256": "a64ec8d0507043998908f6f5d1a3de63fb1fcf01f558c4b622c14a68cd43a33e",
+     "urls": [
+      "https://github.com/P3R6/woo-sync-releases/releases/download/v1.76/woo-sync-setup-1.76.exe"
+     ]
+    }
    }
   ],
   "kind": "releases"
  },
  "key": "k1",
- "sig": "4OrQhc19jMqQqkN3+MZLQMx/HqHGVQvjrb7NIp8I6MzvPf0CWEweeO0Ln4RyRtm6vCFWGWqb+UtGBbaqi+T8Dw=="
+ "sig": "aZJfP1CLaXirzjO9Lg8p4goug3KnkujLKKTZ6UiDXT8t4wZOyITF7iqwk/WADhzL0yJDuZqtcKd53fo19IwRCg=="
 }
