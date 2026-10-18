@@ -1,8 +1,8 @@
 {
  "signed": {
   "format": 1,
-  "serial": 7,
-  "issued": "2026-10-18T22:30:34+00:00",
+  "serial": 8,
+  "issued": "2026-10-18T23:53:22+00:00",
   "releases": [
    {
     "version": "1.71",
@@ -129,10 +129,29 @@
       "https://github.com/P3R6/woo-sync-releases/releases/download/v1.79/woo-sync-setup-1.79.exe"
      ]
     }
+   },
+   {
+    "version": "1.80",
+    "date": "2026-10-19",
+    "notes": [
+     "برداشتن حراج",
+     "قیمت‌ها هنگام تایپ",
+     "مرتب‌تر"
+    ],
+    "data": 1,
+    "withdrawn": false,
+    "setup": {
+     "name": "woo-sync-setup-1.80.exe",
+     "size": 28573916,
+     "sha256": "afb69c3406c61ae95ec2a752485856477c436cb2b4c50cc8020c008b423fdb59",
+     "urls": [
+      "https://github.com/P3R6/woo-sync-releases/releases/download/v1.80/woo-sync-setup-1.80.exe"
+     ]
+    }
    }
   ],
   "kind": "releases"
  },
  "key": "k1",
- "sig": "+RJRXWz9MIZC0jV8qE/vC2OxDo39M7AOtfskPNsxZm5BRFL8OiGcYzSQcKnGDMFvJgKiLdv/dUochPHkvR24DQ=="
+ "sig": "i3VsO20G31voU9NB5bB+n9DcJXcaJav3JwmLRLrmioGH2f5N7lvom6qZmpgFIKtY5oKqJTs/j3KttRGRxuTJBQ=="
 }
