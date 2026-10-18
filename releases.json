@@ -1,8 +1,8 @@
 {
  "signed": {
   "format": 1,
-  "serial": 5,
-  "issued": "2026-09-29T00:05:14+00:00",
+  "serial": 6,
+  "issued": "2026-10-18T16:33:02+00:00",
   "releases": [
    {
     "version": "1.71",
@@ -89,10 +89,30 @@
       "https://github.com/P3R6/woo-sync-releases/releases/download/v1.76/woo-sync-setup-1.76.exe"
      ]
     }
+   },
+   {
+    "version": "1.78",
+    "date": "2026-10-18",
+    "notes": [
+     "عملیات گروهی",
+     "دستیار",
+     "ترب",
+     "ریزه‌کاری‌ها"
+    ],
+    "data": 1,
+    "withdrawn": false,
+    "setup": {
+     "name": "woo-sync-setup-1.78.exe",
+     "size": 28132876,
+     "sha256": "f7a9ff8e21bc27309167dab82b37cc5ce8579bfdd44399e6a83516c297a103fc",
+     "urls": [
+      "https://github.com/P3R6/woo-sync-releases/releases/download/v1.78/woo-sync-setup-1.78.exe"
+     ]
+    }
    }
   ],
   "kind": "releases"
  },
  "key": "k1",
- "sig": "aZJfP1CLaXirzjO9Lg8p4goug3KnkujLKKTZ6UiDXT8t4wZOyITF7iqwk/WADhzL0yJDuZqtcKd53fo19IwRCg=="
+ "sig": "kIqacnUmTSbtRN5zrAG2UUlor5GxWz+uAL5LjoconUKr0qQY6krIhMsERG5PdqGi9bejRZMeaPC9AOSKsHLuDg=="
 }
