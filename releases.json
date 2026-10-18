@@ -1,8 +1,8 @@
 {
  "signed": {
   "format": 1,
-  "serial": 6,
-  "issued": "2026-10-18T16:33:02+00:00",
+  "serial": 7,
+  "issued": "2026-10-18T22:30:34+00:00",
   "releases": [
    {
     "version": "1.71",
@@ -109,10 +109,30 @@
       "https://github.com/P3R6/woo-sync-releases/releases/download/v1.78/woo-sync-setup-1.78.exe"
      ]
     }
+   },
+   {
+    "version": "1.79",
+    "date": "2026-10-19",
+    "notes": [
+     "طراحی تازه، مشکی",
+     "صفحهٔ اول، دستیار است",
+     "محصولات سایت به شکل کارت",
+     "دستیار مشترک‌ها زودتر وصل می‌شود"
+    ],
+    "data": 1,
+    "withdrawn": false,
+    "setup": {
+     "name": "woo-sync-setup-1.79.exe",
+     "size": 28568494,
+     "sha256": "7f82e4e79c6a58a370deba9aba69084ab682fa0549a90f2e913beb220ba54446",
+     "urls": [
+      "https://github.com/P3R6/woo-sync-releases/releases/download/v1.79/woo-sync-setup-1.79.exe"
+     ]
+    }
    }
   ],
   "kind": "releases"
  },
  "key": "k1",
- "sig": "kIqacnUmTSbtRN5zrAG2UUlor5GxWz+uAL5LjoconUKr0qQY6krIhMsERG5PdqGi9bejRZMeaPC9AOSKsHLuDg=="
+ "sig": "+RJRXWz9MIZC0jV8qE/vC2OxDo39M7AOtfskPNsxZm5BRFL8OiGcYzSQcKnGDMFvJgKiLdv/dUochPHkvR24DQ=="
 }
