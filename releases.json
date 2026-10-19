@@ -1,8 +1,8 @@
 {
  "signed": {
   "format": 1,
-  "serial": 8,
-  "issued": "2026-10-18T23:53:22+00:00",
+  "serial": 9,
+  "issued": "2026-10-19T11:20:57+00:00",
   "releases": [
    {
     "version": "1.71",
@@ -148,10 +148,28 @@
       "https://github.com/P3R6/woo-sync-releases/releases/download/v1.80/woo-sync-setup-1.80.exe"
      ]
     }
+   },
+   {
+    "version": "1.81",
+    "date": "2026-10-19",
+    "notes": [
+     "لیست قیمت رقیب، از روی عکس",
+     "دستیار وقتی اعتبار کم است"
+    ],
+    "data": 1,
+    "withdrawn": false,
+    "setup": {
+     "name": "woo-sync-setup-1.81.exe",
+     "size": 47020907,
+     "sha256": "4acdf94c609f8874aa8ba4a2271d4909b9de90ee71fc27e3ebcd74dc39c9f4a5",
+     "urls": [
+      "https://github.com/P3R6/woo-sync-releases/releases/download/v1.81/woo-sync-setup-1.81.exe"
+     ]
+    }
    }
   ],
   "kind": "releases"
  },
  "key": "k1",
- "sig": "i3VsO20G31voU9NB5bB+n9DcJXcaJav3JwmLRLrmioGH2f5N7lvom6qZmpgFIKtY5oKqJTs/j3KttRGRxuTJBQ=="
+ "sig": "plkJP1FCeNV5dXzwD972w1puNjI2HuTJg1adl/5lYIc5F1KVvwy14Mr4TxAeFe6tQ7rEKt3hLTfdSszHsdLUCg=="
 }
