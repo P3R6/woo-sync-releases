@@ -1,8 +1,8 @@
 {
  "signed": {
   "format": 1,
-  "serial": 9,
-  "issued": "2026-10-19T11:20:57+00:00",
+  "serial": 10,
+  "issued": "2026-10-19T12:45:23+00:00",
   "releases": [
    {
     "version": "1.71",
@@ -166,10 +166,27 @@
       "https://github.com/P3R6/woo-sync-releases/releases/download/v1.81/woo-sync-setup-1.81.exe"
      ]
     }
+   },
+   {
+    "version": "1.82",
+    "date": "2026-10-19",
+    "notes": [
+     "مقایسه با سایت رقیب، با لینک"
+    ],
+    "data": 1,
+    "withdrawn": false,
+    "setup": {
+     "name": "woo-sync-setup-1.82.exe",
+     "size": 47141926,
+     "sha256": "35a6e67229ac2b02182910cfb46926d56b67c14f341d4ad309ae459a8840d038",
+     "urls": [
+      "https://github.com/P3R6/woo-sync-releases/releases/download/v1.82/woo-sync-setup-1.82.exe"
+     ]
+    }
    }
   ],
   "kind": "releases"
  },
  "key": "k1",
- "sig": "plkJP1FCeNV5dXzwD972w1puNjI2HuTJg1adl/5lYIc5F1KVvwy14Mr4TxAeFe6tQ7rEKt3hLTfdSszHsdLUCg=="
+ "sig": "2Lb0zeyciugXm4dEn+r5pPCm2+vEDGHquckCIG786yYIfTZQStbQaYNBC8+59OxqxAHcIoLIFWtsIlzv/oqRBw=="
 }
